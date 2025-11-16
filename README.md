@@ -1,8 +1,6 @@
-# Notes App
+d# Notes App
 
 A simple, intuitive, and responsive notes application built with React. Organize your thoughts, ideas, and tasks with ease.
-
-![Notes App Screenshot](./public/notes-app-screenshot.png)
 
 ## ✨ Features
 
