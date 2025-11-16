@@ -1,0 +1,23 @@
+{
+  "name": "Notes App",
+  "short_name": "Notes",
+  "description": "A simple and beautiful notes taking app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#3B82F6",
+  "theme_color": "#3B82F6",
+  "icons": [
+    {
+      "src": "/notes-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/notes-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
